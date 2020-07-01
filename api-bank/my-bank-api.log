@@ -1,0 +1,4 @@
+2020-06-23T17:48:32.723Z [my-bank-api] error: POST /account - "global.logger.infor is not a function"
+2020-06-23T17:49:28.944Z [my-bank-api] info: POST /account - {"id":20,"name":"joao igor","ballance":500}
+2020-06-23T20:52:35.018Z [my-bank-api] info: GET /account - {"accounts":[{"id":1,"name":"joao igor","ballance":500},{"id":4,"name":"joao igor","ballance":500},{"id":5,"name":"joao igor matos","ballance":500},{"id":6,"name":"joao igor","ballance":500},{"id":17,"name":"joao igor","ballance":500},{"id":18,"name":"joao igor","ballance":500},{"id":19,"name":"joao igor","ballance":500},{"id":20,"name":"joao igor","ballance":500}]}
+2020-06-23T20:53:12.230Z [my-bank-api] error: POST /deposit - "Cannot read property 'ballance' of undefined"
